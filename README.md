@@ -13,14 +13,19 @@
 - 📫 Reach out to me anytime!   📫 Email: `manikantasammeta999@gmail.com`
 ---
 ## 🛠️ Tech Stack & Skills
+
 **Languages & Databases:**
 `Python` • `MySQL` • `Oracle SQL`
+
 **Web & Frontend:**
 `HTML` • `CSS` • `JavaScript` • `React.js`
+
 **Backend & Frameworks:**
 `Django` • `Django REST Framework` • `FastAPI`
+
 **AI & Data Science:**
 `NumPy` • `Pandas` • `Scikit-learn` • `TensorFlow` • `Machine Learning` • `Deep Learning` • `Artificial Intelligence`
+
 **Tools:**
 `Git` • `GitHub` • `Postman` • `VS Code` • `Linux Basics`
 ---
