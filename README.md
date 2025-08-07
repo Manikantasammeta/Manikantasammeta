@@ -13,7 +13,7 @@
 - 🧑‍💻 Contributor to open-source projects and collaborative coding
 - 🌱 Currently expanding my knowledge in **Transformers and LLMs**
 - 💬 Ask me about **Python, Django, Machine Learning, APIs, or Web Dev**
-- 📫 Reach out to me anytime!
+- 📫 Reach out to me anytime!   📫 Email: `manikantasammeta999@gmail.com`
 
 ---
 
