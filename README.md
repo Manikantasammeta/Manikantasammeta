@@ -38,7 +38,7 @@
 
 ## 🌐 Connect with Me
 
-- [🔗 LinkedIn]([https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/feed/))
+- [🔗 LinkedIn](https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/feed/)
 - [🌍 Portfolio Website](https://maniportfoilo.netlify.app/#home)
 - 📫 Email: `manikantasammeta999@gmail.com`
 
