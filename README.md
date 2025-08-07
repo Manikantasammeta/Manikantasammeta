@@ -42,6 +42,8 @@
 - [🌍 Portfolio Website] (https://maniportfoilo.netlify.app/#home)
 - 📫 Email: `manikantasammeta999@gmail.com`
 
+- - [🔗 LinkedIn](https://www.linkedin.com/in/your-linkedin-url/)
+
 ---
 
 ## 📈 GitHub Stats
