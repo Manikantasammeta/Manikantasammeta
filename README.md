@@ -39,7 +39,7 @@
 ## 🌐 Connect with Me
 
 
-- [🔗 LinkedIn] (https://www.linkedin.com/in/your-linkedin-url/)
+- [🔗 LinkedIn(https://www.linkedin.com/in/your-linkedin-url/)]
 - [🌍 Portfolio Website] (https://yourportfolio.com)
 - 📫 Email: `your.email@example.com`
 
