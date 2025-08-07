@@ -38,10 +38,10 @@
 
 ## 🌐 Connect with Me
 
-- [🔗 LinkedIn](https://www.linkedin.com/in/your-linkedin-url/)
-- [🔗LinkedIn] (https://www.linkedin.com/in/your-linkedin-url/)]
-- [🌍 Portfolio Website] (https://yourportfolio.com)
-- 📫 Email: `your.email@example.com`
+- [🔗 LinkedIn](https://www.linkedin.com/in/manikantareddy-sammeta-54422022b/)
+- [🌍 Portfolio Website](https://maniportfoilo.netlify.app/#home)
+- 📫 Email: `Manikantasammeta999@gmail.com`
+
 
 ---
 
